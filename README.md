@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @archernero
 - 👀 I’m interested in cs
-- 🌱 I’m currently learning ml/dl
-- 💞️ I’m looking to collaborate on explore algo
+- 🌱 I’m currently engage in recommended system
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me nwuxiaotongl@gmail.com
 
 <!---
