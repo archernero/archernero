@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @archernero
-- 👀 I’m interested in cs
+- 👋 Hi, I’m nero
+- 👀 I’m a software engineering graduate and work for several years
 - 🌱 I’m currently engage in recommended system
-- 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me nwuxiaotongl@gmail.com
+- 💞️ I’m looking to collaborate with someone who interested in ai
+- 📫 You can reach me by nwuxiaotongl@gmail.com
 
 <!---
 archernero/archernero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
