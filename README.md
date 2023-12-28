@@ -1,7 +1,7 @@
 - 👋 Hi, I’m nero
-- 👀 I’m a software engineering graduate and work for 4+ years
+- 👀 I’m a software engineer and work for 4+ years
 - 🌱 I’m currently engage in recommended system
-- 💞️ I’m looking to collaborate with someone who interested in ai
+- 💞️ I’m looking to collaborate with someone who is interested in AI
 - 📫 You can reach me by nwuxiaotongl@gmail.com
 
 <!---
